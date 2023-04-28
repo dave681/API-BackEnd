@@ -1,3 +1,9 @@
+## Stack
+
+- Hexagonal-Architecture
+
+- GraphQL
+
 ## Domain-driven Design (DDD)
 
 This module contains articles about Domain-driven Design (DDD)
