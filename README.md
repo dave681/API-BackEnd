@@ -1,8 +1,8 @@
 ## Stack
 
 - Hexagonal-Architecture
-
-- GraphQL
+- GraphQL (CRUD) +  RESTful (File , only Http or Https)
+- JPA + Querydsl
 
 ## Domain-driven Design (DDD)
 
